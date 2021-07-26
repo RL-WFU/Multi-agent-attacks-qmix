@@ -1,3 +1,5 @@
 ./Transitions/
 ./data_adv.npz
 ./venv/
+./result
+./Saved_data
